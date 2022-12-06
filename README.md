@@ -19,13 +19,13 @@ Uma série de exemplos passo-a-passo que informam o que você deve executar para
 
 ## 🛠️ Construído com
 
-Mencione as ferramentas que você usou para criar seu projeto
+Ferramentas utilizadas
 
-* [Dropwizard](https://reactnative.dev/) - React Native
+* [React-Native](https://reactnative.dev/) - React Native
 
 ## 🎁 Expressões de gratidão
 
 * Agradecimento à Rocketseat pelos ensinamentos.
 
 ---
-⌨️ com ❤️ por [Lucas Alves]
+⌨️ com ❤️ por Lucas Alves
